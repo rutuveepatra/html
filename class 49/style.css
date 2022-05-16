@@ -1,0 +1,31 @@
+h1{
+    color:red;
+}
+{
+    border: solid;
+}
+
+.header{
+    background-color: rgb(187, 171, 24);
+    display: flex;
+    justify-content: space-between;
+}
+.menu{
+    background-color: burlywood;
+
+}
+.grid{
+    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.social{
+    display:flex;
+    justify-content: flex-end;
+}
+
+p,h2{
+    text-align: center;
+}
